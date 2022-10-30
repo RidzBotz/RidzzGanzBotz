@@ -1,22 +1,22 @@
 //=============『 Utama 』================== //
-global.owner = ['+856 20 52 906 199'] 
+global.owner = ['6283852854059'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'IRSAN Uhuyあ⁩⁩'
-global.numberowner = '+856 20 52 906 199'
+global.nameowner = 'Ridzz Ganzあ⁩⁩'
+global.numberowner = '6283852854059'
 global.instagram = 'https://tyvv.com'
-global.github = 'https://github.com/ramlaidi'
-global.dana = '089691183687'
-global.pulsa = '089691183687'
+global.github = 'https://github.com/RidzBotz'
+global.dana = '083848609106'
+global.pulsa = '083135400342'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'San-Md'
+global.namebot = 'Ridzz-Md'
 global.gc = 'https://yandex/Surat\nAlisra\nayat32'
-global.web = 'https://youtube.com/channel/UCSkb2IZTJ7RuPvrcZKFFjtg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1minggu = 2000\n 1bulan = 4000\n permanen = 5000\nNote:\nIrsan♡Anya'
+global.web = 'https://youtube.com/channel/UCh9K_Tln40JL4q2BdWxFGeA' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = '1minggu = 2000\n 1bulan = 4000\n permanen = 5000\nNote:\nRidzz Ganz'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/ef4b4564ef9dc4143f949.jpg' //ganti jadi foto bot mu
